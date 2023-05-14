@@ -1,2 +1,5 @@
-# FusionPBX & Freeswitch scripts
+### FusionPBX & Freeswitch scripts
+
 This repository includes scripts I use for freeswitch and fusionpbx that could be useful for everyone.
+
+- callcenter-announce-position.lua: This is a modified script for FusionPBX callcenters that, unlike the original script, plays the music in the background (and lowers its volume) while it plays the greeting and while it announces the position
